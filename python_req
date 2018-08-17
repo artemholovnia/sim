@@ -1,0 +1,8 @@
+python3-pip
+virtualenv
+mysql-server
+mysql-client
+python3-dev
+libmysqlclient-dev
+build-essential
+

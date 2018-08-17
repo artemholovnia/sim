@@ -1,0 +1,12 @@
+celery/*
+redis-server/*
+!redis-server/redis.conf
+!celery/.gitkeep
+media/
+test.py
+*.pyc
+migrations/*
+__pycache__
+.idea/
+venv/
+
